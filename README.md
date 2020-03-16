@@ -10,8 +10,8 @@ The Partners Network meets monthly for an hour to discuss relevent topics and sh
 
 ### Collaboration tools
 Remote collaboration tools that people across agencies can use vary but are important to help us connect
-- we use online whiteboarding tools to share thoughts, synthesize info and dotvote 
-- we use videochat tools to better connect remotely
+- we use online whiteboarding tools to share thoughts, synthesize info and dot-vote 
+- we use video chat tools to better connect remotely
 
 We are testing github for documenting our meetings and getting feedback
 - sign up for a [free github account](https://github.com/join) 
