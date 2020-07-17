@@ -6,7 +6,7 @@
 If you are a federal employee and have previously collaborated on a project with 18F and interested in learning more please email: 18Fpartners@gsa.gov 
 
 # Office Hours
-The Partners Network meets monthly for an hour to discuss relevent topics and share best practices.
+The Partners Network meets monthly for an hour to discuss agile/human-centered design topics and share best practices.
 
 ### Collaboration tools
 Remote collaboration tools that people across agencies can use vary but are important to help us connect
